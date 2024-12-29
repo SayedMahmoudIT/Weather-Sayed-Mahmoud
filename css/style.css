@@ -1,0 +1,81 @@
+
+input[type="checkbox"] {
+    /*transform: scale(2.5);*/
+    width: 100px !important;
+    height: 40px !important;
+}
+
+.nav-item{
+    font-size: 25px;
+    margin: 15px;
+}
+
+
+.search-logo{
+    translate:-60px 21px; 
+    cursor: pointer;
+}
+
+.main-sec{
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat ;
+}
+
+.font-family{
+    font-family: sans-serif,Arial !important;
+    font-size: 90px !important;
+}
+
+.slider-cursor{
+    cursor: pointer;
+}
+
+
+/* dark style start */
+.darkLight-color{
+    background-color: #1E202B;
+}
+
+.dark-style{
+    background-color: #101322; 
+    color:  #BFC1C8;
+}
+
+.link:hover{
+    border-width:3px ;
+    border-radius: 25px  ;
+    border-color: blue ;
+    border-style: solid ;
+    color: blue !important;
+    padding: 4px !important;
+}
+
+.font-Color{
+    color: #BFC1C8;
+    /* font-weight: bold; */
+}
+
+.subsribe-btn{
+    width: 120px !important;
+    height: 61px !important;
+    translate:-119px -1px; 
+    background-color: #009AD8;
+    color: white;
+    font-size: 20px;
+    border:solid 4px rgb(0, 204, 255);
+}
+
+.subsribe-btn:hover{
+    background-color: white;
+    color: #009AD8;
+}
+
+.Subsrcibe-txt{
+  height:59px !important;
+}
+
+/* .dforecast{
+    color: aqua;
+} */
+
+/* dark style End */

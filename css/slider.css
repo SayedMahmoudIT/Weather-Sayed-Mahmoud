@@ -1,0 +1,11 @@
+.content{
+    transform: translateY(25%);
+}
+
+.modal-slider{
+    display: none;
+}
+
+.slider img:hover{
+    cursor: pointer;
+}
